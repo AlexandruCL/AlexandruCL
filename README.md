@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some school projects
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on bigger projects.
-- 🤔 I’m looking for help with HTML and CSS, because this is what I want to learn rn.
+- 🤔 I’m looking for any courses or places to learn TypeScript at this moment.
 - - 📫 How to reach me: alexandru.cristea@ligaaac.ro
 <!--
 **AlexandruCL/AlexandruCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
